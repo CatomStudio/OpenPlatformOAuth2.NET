@@ -4,13 +4,13 @@ OpenPlatformOAuth2.NET
 OpenPlatformOAuth2.NET for SinaWeiBo,TencentQQ,TaoBao
 
 -- sinaweibo oauth2.0 --
-https://api.weibo.com/oauth2/authorize?client_id=595911245&redirect_uri=http://yousitereplace/oauth/callback&response_type=code&display=default%20&state=sinaweibo
+https://api.weibo.com/oauth2/authorize?client_id=youclientid&redirect_uri=http://yousitereplace/oauth/callback&response_type=code&display=default%20&state=sinaweibo
 
 -- qq oauth2.0 --
-http://openapi.qzone.qq.com/oauth/show?which=Login&display=pc&client_id=101167791&redirect_uri=http://yousitereplace/oauth/callback&response_type=code&display=default%20&state=qq
+http://openapi.qzone.qq.com/oauth/show?which=Login&display=pc&client_id=youclientid&redirect_uri=http://yousitereplace/oauth/callback&response_type=code&display=default%20&state=qq
 
 -- taobao oauth2.0 --
-https://oauth.taobao.com/authorize?client_id=23048822&redirect_uri=http://yousitereplace/oauth/callback&response_type=code&display=default%20&state=taobao
+https://oauth.taobao.com/authorize?client_id=youclientid&redirect_uri=http://yousitereplace/oauth/callback&response_type=code&display=default%20&state=taobao
 
 Example Test:
 ==============================================================================================
