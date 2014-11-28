@@ -1,0 +1,7 @@
+G:\Home\Git\Developer\OpenPlatformOAuth2.NET\GeRenXing.OpenPlatform.Test\bin\Debug\GeRenXing.OpenPlatform.Test.exe
+G:\Home\Git\Developer\OpenPlatformOAuth2.NET\GeRenXing.OpenPlatform.Test\bin\Debug\GeRenXing.OpenPlatform.Test.pdb
+G:\Home\Git\Developer\OpenPlatformOAuth2.NET\GeRenXing.OpenPlatform.Test\bin\Debug\GeRenXing.OpenPlatform.dll
+G:\Home\Git\Developer\OpenPlatformOAuth2.NET\GeRenXing.OpenPlatform.Test\bin\Debug\GeRenXing.OpenPlatform.pdb
+G:\Home\Git\Developer\OpenPlatformOAuth2.NET\GeRenXing.OpenPlatform.Test\obj\Debug\GeRenXing.OpenPlatform.Test.csprojResolveAssemblyReference.cache
+G:\Home\Git\Developer\OpenPlatformOAuth2.NET\GeRenXing.OpenPlatform.Test\obj\Debug\GeRenXing.OpenPlatform.Test.exe
+G:\Home\Git\Developer\OpenPlatformOAuth2.NET\GeRenXing.OpenPlatform.Test\obj\Debug\GeRenXing.OpenPlatform.Test.pdb
