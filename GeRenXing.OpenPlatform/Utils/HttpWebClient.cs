@@ -99,7 +99,7 @@ namespace GeRenXing.Utils
                 if (ex.Response != null)
                 {
                     Stream responseStream = ex.Response.GetResponseStream();
-                    responseBytes = new byte[ex.Response.ContentLength];
+                    responseBytes = new byte[responseStream.Length];
                     responseStream.Read(responseBytes, 0, responseBytes.Length);
                 }
                 else
